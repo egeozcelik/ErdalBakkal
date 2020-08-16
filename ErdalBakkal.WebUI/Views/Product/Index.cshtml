@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ErdalBakkal.Entity.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Ürün Listeleme Sayfası</h2>
+
+<table class="table table-sm">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Urun Adi</th>
+            <th scope="col">Fiyat</th>
+            <th scope="col">Stok</th>
+            <th scope="col">Kategori</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <th scope="row">@product.Id</th>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Stock</td>
+                <td>@product.Category.Name</td>
+                <td>
+                    <a href="/product/edit/@product.Id" class="btn btn-info btn-sm">Edit</a>
+                    <a href="/product/delete/@product.Id" class="btn btn-danger btn-sm ">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

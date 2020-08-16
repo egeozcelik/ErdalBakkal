@@ -1,0 +1,10 @@
+C:\Users\koray.ozdemir\source\repos\ErdalBakkal\ErdalBakkal.Entity\bin\Debug\ErdalBakkal.Entity.dll
+C:\Users\koray.ozdemir\source\repos\ErdalBakkal\ErdalBakkal.Entity\bin\Debug\ErdalBakkal.Entity.pdb
+C:\Users\koray.ozdemir\source\repos\ErdalBakkal\ErdalBakkal.Entity\obj\Debug\ErdalBakkal.Entity.csproj.CoreCompileInputs.cache
+C:\Users\koray.ozdemir\source\repos\ErdalBakkal\ErdalBakkal.Entity\obj\Debug\ErdalBakkal.Entity.dll
+C:\Users\koray.ozdemir\source\repos\ErdalBakkal\ErdalBakkal.Entity\obj\Debug\ErdalBakkal.Entity.pdb
+C:\Users\Ege\Desktop\MVC\ErdalBakkal\ErdalBakkal\ErdalBakkal.Entity\bin\Debug\ErdalBakkal.Entity.dll
+C:\Users\Ege\Desktop\MVC\ErdalBakkal\ErdalBakkal\ErdalBakkal.Entity\bin\Debug\ErdalBakkal.Entity.pdb
+C:\Users\Ege\Desktop\MVC\ErdalBakkal\ErdalBakkal\ErdalBakkal.Entity\obj\Debug\ErdalBakkal.Entity.csprojAssemblyReference.cache
+C:\Users\Ege\Desktop\MVC\ErdalBakkal\ErdalBakkal\ErdalBakkal.Entity\obj\Debug\ErdalBakkal.Entity.dll
+C:\Users\Ege\Desktop\MVC\ErdalBakkal\ErdalBakkal\ErdalBakkal.Entity\obj\Debug\ErdalBakkal.Entity.pdb
